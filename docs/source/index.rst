@@ -6,6 +6,8 @@
 Welcome to Integrate's documentation!
 =====================================
 
+This is a small library that does basic newton cotes and monte carlo integration
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
